@@ -1,4 +1,4 @@
-This is a simple Event Guest List Manager that uses JavaScript to manipulate the DOM.
+This is a simple Event Guest List Manager made using JavaScript, HTML, and CSS.
 
 To run this, you will need to:
 1. Clone the repository in your terminal using 'git clone git@github.com:ItsDylnn/SA.02-Week2-Code-challenge-Event-Guest-List-Manager.git'
